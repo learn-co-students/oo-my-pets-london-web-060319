@@ -1,4 +1,4 @@
-require_relative 'owner.rb'
+# require_relative 'owner.rb'
 
 class Dog
   
